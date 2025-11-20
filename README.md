@@ -10,7 +10,7 @@ An AI-powered image generation website built using **HTML**, **CSS**, and **Java
 - Simple, responsive UI built with pure HTML, CSS, and JS  
 - Real-time image rendering from API prompts  
 - Clean layout and smooth transitions  
-- Customizable prompt inputs  
+- Customizable prompt inputs  .
 
 ---
 
