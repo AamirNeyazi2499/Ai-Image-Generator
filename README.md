@@ -16,7 +16,7 @@ An AI-powered image generation website built using **HTML**, **CSS**, and **Java
 
 ## 🖼️ Demo
 
-[Live Demo](###)
+[Live Demo](####)
 
 ---
 
