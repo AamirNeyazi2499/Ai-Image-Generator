@@ -1,7 +1,7 @@
 # AI Image Generation Website
  
 An AI-powered image generation website built using **HTML**, **CSS**, and **JavaScript** — inspired by platforms like **Midjourney** and **DALL·E**. Users can enter prompts to generate creative, high-quality images using artificial intelligence.
-
+ 
 ---
 
 ## 🧠 Features
