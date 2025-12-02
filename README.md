@@ -4,7 +4,7 @@ An AI-powered image generation website built using **HTML**, **CSS**, and **Java
  
 ---  
 
-## 🧠 Features
+## 🧠 Features 
 
 - Text-to-image generation using AI models  
 - Simple, responsive UI built with pure HTML, CSS, and JS  
